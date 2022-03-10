@@ -1,0 +1,11 @@
+h2 {
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    font-size: 24pt;
+}
+
+.texto1 > p{
+    font-family: Arial;
+    font-size: 14pt;
+}
+
